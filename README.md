@@ -5,7 +5,7 @@
 
 
 
-<img src="https://cdn.discordapp.com/attachments/752266005538930719/830075961025232906/Sem_Titulo-1.png">
+<img src="https://cdn.discordapp.com/attachments/752266005538930719/830076304057303051/Sem-Titulo-1.png">
 <br>
 About me:
 <br>
