@@ -7,6 +7,7 @@
 
 <img src="https://cdn.discordapp.com/attachments/819667765123219486/830077210819821589/Vitor.png">
 <br>
+---
 About me:
 <br>
 💦I'm currently working on a project!
