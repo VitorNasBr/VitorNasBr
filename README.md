@@ -20,4 +20,6 @@ About me:
 🦝I like meerkats!
 <br>
 💻Languages I like
-<img src="https://cdn.discordapp.com/attachments/819667765123219486/830079589019549721/136530.png"><img src="https://cdn.discordapp.com/attachments/819667765123219486/830078554553057300/136527.png"><img src="https://cdn.discordapp.com/attachments/819667765123219486/830078715903213608/136528.png">
+<img src="https://cdn.discordapp.com/attachments/819667765123219486/830079589019549721/136530.png">
+<img src="https://cdn.discordapp.com/attachments/819667765123219486/830078554553057300/136527.png" left:"10vw";>
+<img src="https://cdn.discordapp.com/attachments/819667765123219486/830078715903213608/136528.png">
