@@ -24,5 +24,6 @@ About me:
 <img src="https://cdn.discordapp.com/attachments/819667765123219486/830082197859991592/Sem_Titulo-2.png" width="250vw">
 
 <img src="https://cdn.discordapp.com/attachments/819667765123219486/830086924144345168/Sem_Titulo-1.png">
-
+<br>
+📷medina.020
 
