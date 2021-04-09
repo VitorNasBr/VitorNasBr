@@ -13,3 +13,10 @@ About me:
 😴Studying JavaScript
 <br>
 ⚽I like soccer
+<br>
+
+༼ つ ◕_◕ ༽つ
+<br>
+🦝I like meerkats!
+
+<img src="https://cdn.discordapp.com/attachments/752266005538930719/830070475626512444/o-merkat-suricata-ou-suricato-C3A9-um-pequeno-carnC3ADvoro-na-famC3ADlia-dos-mongueiros-C3BAnico-mem.png">
