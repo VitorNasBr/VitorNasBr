@@ -23,6 +23,6 @@ About me:
 
 <img src="https://cdn.discordapp.com/attachments/819667765123219486/830082197859991592/Sem_Titulo-2.png" width="250vw">
 
-<img src="https://cdn.discordapp.com/attachments/819667765123219486/830083021088227338/Analise-Instagram-engajamento.png">
+<img src="https://cdn.discordapp.com/attachments/819667765123219486/830083021088227338/Analise-Instagram-engajamento.png" width="1900vw" heght="500vw";>
 
-***
+
