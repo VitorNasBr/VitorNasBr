@@ -18,3 +18,8 @@ About me:
 ⚽I like soccer
 <br>
 🦝I like meerkats!
+<br>
+💻Languages I like
+<img src="https://cdn.discordapp.com/attachments/819667765123219486/830078042583728138/7852aa99f857cd72012843b4cce5090f.png">
+<img src="https://cdn.discordapp.com/attachments/819667765123219486/830078554553057300/136527.png">
+<img src="https://cdn.discordapp.com/attachments/819667765123219486/830078715903213608/136528.png">
