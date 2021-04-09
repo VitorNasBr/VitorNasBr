@@ -9,7 +9,7 @@
 <br>
 About me:
 <br>
-💦 I'm currently working on a project!
+💦 <strong>I'm currently working on a project!<strong>
 <br>
 👊If you need help you can call me!
 <br>
