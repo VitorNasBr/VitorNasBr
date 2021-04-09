@@ -27,8 +27,6 @@ About me:
 
 📷medina.020
 
-<br>
-
 <img src="https://cdn.discordapp.com/attachments/819667765123219486/830090804424343652/Sem_Titulo-1.png" width="450vw">
 
 VitorNasBr#5742
