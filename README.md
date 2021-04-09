@@ -21,5 +21,5 @@ About me:
 <br>
 💻Languages I like
 
-<img src="https://cdn.discordapp.com/attachments/819667765123219486/830081313025425458/Sem_Titulo-2.png" width="250vw">
+<img src="https://cdn.discordapp.com/attachments/819667765123219486/830081313025425458/Sem_Titulo-2.png" width="250vw"; margin-left="0vw">
 
