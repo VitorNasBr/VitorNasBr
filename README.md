@@ -20,7 +20,10 @@ About me:
 
 
 <img src="https://cdn.discordapp.com/attachments/819667765123219486/830082197859991592/Sem_Titulo-2.png" width="290vw">
+
+
 #
+
 
 <img src="https://cdn.discordapp.com/attachments/819667765123219486/830088039987413022/Sem-Titulo-1.png" width="450vw">
 📷medina.020
