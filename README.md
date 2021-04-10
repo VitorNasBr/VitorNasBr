@@ -32,4 +32,5 @@
 
 <img src="https://cdn.discordapp.com/attachments/819667765123219486/830090804424343652/Sem_Titulo-1.png">
 
-<h1>VitorNasBr#5742</h1>
+<strong>VitorNasBr#5742<strong>
+
