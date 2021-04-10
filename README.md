@@ -1,22 +1,22 @@
-<img src="https://cdn.discordapp.com/attachments/819667765123219486/830077210819821589/Vitor.png">
+<img src="https://cdn.discordapp.com/attachments/819667765123219486/830077210819821589/Vitor.png%22%3E
 
 
 #
 
 <br>
-- About me:
+About me:
 <br>
-- 💦I'm currently working on a project!
+- :sweat_drops:I'm currently working on a project!
 <br>
-- 👊If you need help you can call me!
+- :punch:If you need help you can call me!
 <br>
-- 😴Studying JavaScript
+- :sleeping:Studying JavaScript
 <br>
-- ⚽I like soccer
+- :soccer:I like soccer
 <br>
-- 🦝I like meerkats!
+- :raccoon:I like meerkats!
 <br>
-- 💻Languages I like
+- :computer:Languages I like
 
 
 <img src="https://cdn.discordapp.com/attachments/819667765123219486/830082197859991592/Sem_Titulo-2.png" width="290vw">
@@ -25,12 +25,11 @@
 #
 
 
-<img src="https://cdn.discordapp.com/attachments/819667765123219486/830086741854650458/Sem_Titulo-1.png"  width="1900vw" height="200vw"> 
-<strong>📷medina.020<strong>
+<img src="https://cdn.discordapp.com/attachments/819667765123219486/830088039987413022/Sem-Titulo-1.png" width="450vw">
+:camera:medina.020
 
 #
 
-<img src="https://cdn.discordapp.com/attachments/819667765123219486/830090804424343652/Sem_Titulo-1.png">
+<img src="https://cdn.discordapp.com/attachments/819667765123219486/830090804424343652/Sem_Titulo-1.png" width="450vw">
 
-<strong>VitorNasBr#5742<strong>
-
+VitorNasBr#5742
