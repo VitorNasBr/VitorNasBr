@@ -29,6 +29,6 @@ About me:
 
 #
 
-<img src="https://cdn.discordapp.com/attachments/819667765123219486/830090804424343652/Sem_Titulo-1.png" width="450vw">
+<img src="https://cdn.discordapp.com/attachments/819667765123219486/830267116388614144/1.png">
 
 VitorNasBr#5742
