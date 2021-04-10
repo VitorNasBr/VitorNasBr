@@ -1,5 +1,4 @@
-
-<img src="https://cdn.discordapp.com/attachments/819667765123219486/830077210819821589/Vitor.png%22%3E
+<img src="https://cdn.discordapp.com/attachments/819667765123219486/830077210819821589/Vitor.png%22%3E>
 
 
 #
