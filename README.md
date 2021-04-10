@@ -25,7 +25,7 @@ About me:
 #
 
 
-<img src="https://cdn.discordapp.com/attachments/819667765123219486/830083021088227338/Analise-Instagram-engajamento.png" width="450vw">
+<img src="https://cdn.discordapp.com/attachments/819667765123219486/830083021088227338/Analise-Instagram-engajamento.png">
 📷medina.020
 
 #
