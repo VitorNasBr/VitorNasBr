@@ -15,17 +15,17 @@
 <br>
 About me:
 <br>
-💦I'm currently working on a project!
+- 💦I'm currently working on a project!
 <br>
-👊If you need help you can call me!
+- 👊If you need help you can call me!
 <br>
-😴Studying JavaScript
+- 😴Studying JavaScript
 <br>
-⚽I like soccer
+- ⚽I like soccer
 <br>
-🦝I like meerkats!
+- 🦝I like meerkats!
 <br>
-💻Languages I like
+- 💻Languages I like
 
 <img src="https://cdn.discordapp.com/attachments/819667765123219486/830082197859991592/Sem_Titulo-2.png" width="290vw">
 <img src="https://cdn.discordapp.com/attachments/819667765123219486/830088039987413022/Sem-Titulo-1.png" width="450vw">
