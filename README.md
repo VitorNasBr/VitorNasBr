@@ -6,6 +6,7 @@
 <br>
 About me:
 <br>
+<strong>
 - 💦I'm currently working on a project!
 <br>
 - 👊If you need help you can call me!
@@ -17,7 +18,7 @@ About me:
 - 🦝I like meerkats!
 <br>
 - 💻Languages I like
-
+</strong>
 
 <img src="https://cdn.discordapp.com/attachments/819667765123219486/830082197859991592/Sem_Titulo-2.png" width="290vw">
 
