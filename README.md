@@ -39,8 +39,4 @@ About me:
 
 VitorNasBr#5742
 
-#
 
-### Contributions
-
-![Github Contributions](https://github-readme-stats.vercel.app/api?username=codedzeuz&theme=dracula&show_icons=true&hide_title=true&count_private=true)
