@@ -38,3 +38,9 @@ About me:
 <img src="https://cdn.discordapp.com/attachments/819667765123219486/830267116388614144/1.png">
 
 VitorNasBr#5742
+
+#
+
+### Contributions
+
+![Github Contributions](https://github-readme-stats.vercel.app/api?username=codedzeuz&theme=dracula&show_icons=true&hide_title=true&count_private=true)
