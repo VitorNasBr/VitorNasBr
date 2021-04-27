@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/819667765123219486/830077210819821589/Vitor.png">
+<img src="https://cdn.discordapp.com/attachments/819667765123219486/836400598424879154/banner.png">
 
 #
 
