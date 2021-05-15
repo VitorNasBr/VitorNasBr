@@ -13,8 +13,6 @@ About me:
 <br>
 - :soccer:I like soccer
 <br>
-- :raccoon:I like meerkats!
-<br>
 - :computer:Languages I like
 
 
