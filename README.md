@@ -23,11 +23,6 @@ About me:
 
 #
 
-<img src="https://cdn.discordapp.com/attachments/819667765123219486/830267683996041256/1.png">
-
-⚡RaioPVP
-
-#
 
 
 <img src="https://cdn.discordapp.com/attachments/819667765123219486/830266377046458399/1.png">
