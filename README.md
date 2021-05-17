@@ -17,7 +17,7 @@ About me:
 - <br>
 - :camera:Instagram: medina.020
 - <br>
-🧾Discord: VitorNasBr#5742
+- 🧾Discord: VitorNasBr#5742
 - 
 
 
