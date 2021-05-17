@@ -22,9 +22,9 @@ About me:
 #
 
 
-:camera:medina.020
+:camera:Instagram: medina.020
 
 #
 
 
-VitorNasBr#5742
+Discord: VitorNasBr#5742
