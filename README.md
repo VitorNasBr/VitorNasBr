@@ -15,12 +15,12 @@ About me:
 <br>
 - :computer:Languages I like
 - <br>
-:camera:Instagram: medina.020
+- :camera:Instagram: medina.020
 - <br>
-Discord: VitorNasBr#5742
+🧾Discord: VitorNasBr#5742
 - 
 
 
-<img src="https://cdn.discordapp.com/attachments/819667765123219486/830082197859991592/Sem_Titulo-2.png" width="290vw">
+
 
 
