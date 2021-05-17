@@ -13,8 +13,6 @@ About me:
 <br>
 - :soccer:I like soccer
 <br>
-- :computer:Languages I like
-- <br>
 - :camera:Instagram: medina.020
 - <br>
 - 🧾Discord: VitorNasBr#5742
