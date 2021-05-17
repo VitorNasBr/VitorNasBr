@@ -9,7 +9,7 @@ About me:
 <br>
 - :punch:If you need help you can call me!
 <br>
-- :sleeping:Studying JavaScript
+- :sleeping:Studying....
 <br>
 - :soccer:I like soccer
 <br>
