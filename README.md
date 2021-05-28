@@ -7,7 +7,7 @@ About me:
 <br>
 - :punch:If you need help you can call me!
 <br>
-- :sleeping:Studying....
+- 😴Studying....
 <br>
 
 - 🧾Discord: VitorNasBr#5742
