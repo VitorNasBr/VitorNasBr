@@ -3,11 +3,11 @@
 <br>
 About me:
 <br>
-- :sweat_drops:I'm currently working on a project!
+- 🧾Discord: VitorNasBr#5742
 <br>
-- :punch:If you need help you can call me!
+- 🧾Discord: VitorNasBr#5742
 <br>
-- 😴Studying....
+- 🧾Discord: VitorNasBr#5742
 <br>
 
 - 🧾Discord: VitorNasBr#5742
