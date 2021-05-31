@@ -2,13 +2,6 @@
 <br/>
 <img src="https://discord.c99.nl/widget/theme-3/396468587398823938.png"> 
 
-<img src="https://github-readme-stats.vercel.app/api?username=VitorNasBr&show_icons=true&theme=dark" margin-left="100px">
-
-
-
-
-<img class="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorNasBr&langs_count=8&theme=dark">
-
 
 # About me:
 
