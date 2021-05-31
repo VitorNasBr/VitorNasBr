@@ -4,11 +4,7 @@
 
 <br/>
 # About me:
-<br/>
-<br/>
 
-
-#
 ```
 - 💦I'm currently working on a project!
  
