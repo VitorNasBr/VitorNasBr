@@ -9,6 +9,8 @@
 </div>
 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorNasBr&langs_count=8&theme=dark">
+
 
 # About me:
 
