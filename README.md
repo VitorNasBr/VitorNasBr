@@ -4,7 +4,7 @@
 #About me:
 <br/>
 <br/>
-<img src="https://discord.c99.nl/widget/theme-3/396468587398823938.png">
+
 
 #
 ```
@@ -28,6 +28,6 @@
 
 
 
-![VitorNasBr GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorNasBr&show_icons=true&theme=dark) <br /><br /> 
+![VitorNasBr GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorNasBr&show_icons=true&theme=dark) <img src="https://discord.c99.nl/widget/theme-3/396468587398823938.png"> <br /><br /> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorNasBr&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
