@@ -1,13 +1,13 @@
 ### Hi I'm Vitor
 
 <br/>
-About me:
+#About me:
 <br/>
-
+<br/>
 <img src="https://discord.c99.nl/widget/theme-3/396468587398823938.png">
 
 #
-
+```
 - 💦I'm currently working on a project!
  
 
@@ -22,7 +22,7 @@ About me:
 
 - 🧾Discord: VitorNasBr#5742
 #
-
+```
 <br/>
 
 
