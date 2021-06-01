@@ -1,9 +1,9 @@
 # Hi I'm Vitor
 <br/>
 
-![VitorNasBr GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorNasBr&show_icons=true&theme=dark)  
+![VitorNasBr GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorNasBr&show_icons=true&theme=dark) <img src="https://discord.c99.nl/widget/theme-3/396468587398823938.png"> 
 
-<img src="https://discord.c99.nl/widget/theme-3/396468587398823938.png" margin-left="150px"> 
+
 
 
 # About me:
