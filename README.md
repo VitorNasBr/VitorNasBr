@@ -1,6 +1,6 @@
 # Hi I'm Vitor
 
-<img src="https://discord.c99.nl/widget/theme-3/396468587398823938.png">  
+<img src="https://discord.c99.nl/widget/theme-3/396468587398823938.png" style="width: 5rem;">  
 
 
 # About me:
