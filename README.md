@@ -8,15 +8,9 @@
 ```
 - 💦I'm currently working on a project!
  
-
-
 - 👊If you need help you can call me!
  
-
-
 - 😴Studying....
-
-
 
 - 🧾Discord: VitorNasBr#5742
 
