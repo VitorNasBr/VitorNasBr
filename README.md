@@ -1,4 +1,7 @@
 # Hi I'm Vitor
+
+<img src="https://discord.c99.nl/widget/theme-3/396468587398823938.png">  
+
 <br/>
 
 # About me:
@@ -12,9 +15,12 @@
 ```
 <br/>
 
-<img src="https://discord.c99.nl/widget/theme-3/396468587398823938.png">  
-      
+<div style="margin-left:500px">
+
 ![VitorNasBr GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorNasBr&show_icons=true&theme=algolia) 
+
+</div>
+      
 
 
 
