@@ -15,7 +15,7 @@
 ```
 <br/>
 
-<div style="margin-left:500px">
+<div margin-left="500px">
 
 ![VitorNasBr GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorNasBr&show_icons=true&theme=algolia) 
 
