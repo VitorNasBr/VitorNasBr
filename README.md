@@ -13,7 +13,6 @@
 - 😴Studying....
 
 - 🧾Discord: VitorNasBr#5742
-
 ```
 <br/>
 
